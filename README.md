@@ -29,3 +29,4 @@ Django 4.04
 .User is able to view photos based on location
 
 .User is able to search different category of photos
+# Contact Information
