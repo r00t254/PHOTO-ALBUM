@@ -6,11 +6,11 @@ Mary Auma
 # Live Link
 
 # Requirements
-Django 
+.Django 
 
 # Installation
-python -m pip install Django
+.python -m pip install Django
 
-django-admin startproject gallery .
+.django-admin startproject gallery .
 
 
