@@ -9,4 +9,5 @@ Mary Auma
 Django 
 
 # Installation
+python -m pip install Django
 
