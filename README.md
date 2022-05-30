@@ -20,3 +20,4 @@ python3.8 manage.py runserver
 .Django
 
 # Version Used
+Django 4.04
