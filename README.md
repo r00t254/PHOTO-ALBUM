@@ -5,3 +5,5 @@ This is a django application that allow the user to view photos and also send li
 Mary Auma
 # Live Link
 
+# Requirements
+
