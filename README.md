@@ -33,7 +33,7 @@ Django 4.04
 Feel free to send your feedback or comments here. root254.mary@gmail.com
 
 # Lisence
-MIT License
+MIT LICENSE
 
 Copyright (c) 2019 Mary Auma    
 
