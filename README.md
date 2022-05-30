@@ -30,3 +30,4 @@ Django 4.04
 
 .User is able to search different category of photos
 # Contact Information
+Feel free to send your feedback or comments here. root254.mary@gmail.com
