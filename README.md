@@ -27,3 +27,4 @@ User should be able to view different photos
 User is able to click on single photo to expand
 
 User is able to view photos based on location
+User is able to search different category of photos
