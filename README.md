@@ -14,5 +14,5 @@ Mary Auma
 .django-admin startproject gallery .
 # Running Application
 python3.8 manage.py runserver
-
+# Technology
 
