@@ -12,5 +12,7 @@ Mary Auma
 .python -m pip install Django
 
 .django-admin startproject gallery .
+# Running Application
+
 
 
