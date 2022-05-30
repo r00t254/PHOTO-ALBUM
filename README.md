@@ -10,4 +10,6 @@ Django
 
 # Installation
 python -m pip install Django
+django-admin startproject gallery .
+
 
