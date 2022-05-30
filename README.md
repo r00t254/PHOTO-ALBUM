@@ -23,5 +23,7 @@ python3.8 manage.py runserver
 Django 4.04
 # User Story 
 User should be able to view different photos
+
 User is able to click on single photo to expand
+
 User is able to view photos based on location
