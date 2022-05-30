@@ -8,3 +8,5 @@ Mary Auma
 # Requirements
 Django 
 
+# Installation
+
