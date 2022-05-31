@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-0c^-q-mmu2zfkf+y@(^4pmx8l2ihdjf#$ntsswtd2+h^ir!fj_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['picha-share.herokuapp.com']
 
 
 # Application definition
