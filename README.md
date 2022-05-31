@@ -4,6 +4,8 @@ This is a django application that allow the user to view photos and also send li
 # Screen Short
 ![Screenshot from 2022-05-31 16-10-05](https://user-images.githubusercontent.com/100118426/171181708-9a881e25-c85f-45f0-9969-df078ea00e1e.png)
 
+![Screenshot from 2022-05-31 16-14-37](https://user-images.githubusercontent.com/100118426/171182156-8917152f-e795-44bf-8cea-8911e01f40a2.png)
+
 
 # Author
 Mary Auma
